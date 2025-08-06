@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+*.log
+
+# IDE 설정
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints
+
+# Mac OS
+.DS_Store
+
+# 환경 설정
+.env
+*.env
+
+# Streamlit 캐시
+.streamlit/
+
+# 영상
+*.mp4
